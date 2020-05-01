@@ -1,4 +1,4 @@
 schema_version: 20180708
 name: kiosk-order
-version: 0.0.5
+version: 0.0.6
 runtime: docker
