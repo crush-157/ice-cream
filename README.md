@@ -70,7 +70,7 @@ Note the version of the JDK indicated in the image tags (in this case 11-1.0.108
 
 If your jar is compatible with this then carry on.
 
-Otherwise switch to [this method](../hand-made/README.md) for building an image
+Otherwise switch to [this method](https://github.com/crush-157/hand-made) for building an image
 that isn't based on `fn-java-fdk-build`.
 
 To generate a `Dockerfile` from this, run the following:
