@@ -174,6 +174,7 @@ $ fn invoke ice-cream kiosk-order < bubblegum.json
 ```
 Sadly, you don't get an ice cream :-(
 
-## Example
+## Example
+
 For a working example, see the code in this repository (the `Dockerfile`
 has been edited to improve readability).
