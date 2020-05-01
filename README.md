@@ -74,6 +74,7 @@ Otherwise switch to [this method](../hand-made/README.md) for building an image
 that isn't based on `fn-java-fdk-build`.
 
 To generate a `Dockerfile` from this, run the following:
+
 `fn build --verbose | grep Step |> Dockerfile.new cut -d ' ' -f4-`
 
 Note: this won't work if you just put `Dockerfile` in the above command!
